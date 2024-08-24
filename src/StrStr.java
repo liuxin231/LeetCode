@@ -3,7 +3,7 @@ public class StrStr {
     public StrStr() {
         String haystack = "hello";
         String needle = "ll";
-        System.out.println(strStr(haystack, needle));
+        strStr(haystack, needle);
     }
 
     public int strStr(String haystack, String needle) {

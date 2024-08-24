@@ -16,6 +16,7 @@ public class Main {
         ThreeSum threeSum = new ThreeSum();
         // 找出字符串中第一个匹配项的下标
         StrStr strStr = new StrStr();
-
+        // 移除元素
+        RemoveElement removeElement = new RemoveElement();
     }
 }
