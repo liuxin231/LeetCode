@@ -18,5 +18,7 @@ public class Main {
         StrStr strStr = new StrStr();
         // 移除元素
         RemoveElement removeElement = new RemoveElement();
+        // 删除有序数组中的重复项
+        RemoveDuplicates removeDuplicates = new RemoveDuplicates();
     }
 }
