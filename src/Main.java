@@ -20,5 +20,7 @@ public class Main {
         RemoveElement removeElement = new RemoveElement();
         // 删除有序数组中的重复项
         RemoveDuplicates removeDuplicates = new RemoveDuplicates();
+        // 合并两个有序链表
+        MergeTwoLists mergeTwoLists = new MergeTwoLists();
     }
 }
