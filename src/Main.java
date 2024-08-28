@@ -22,5 +22,7 @@ public class Main {
         RemoveDuplicates removeDuplicates = new RemoveDuplicates();
         // 合并两个有序链表
         MergeTwoLists mergeTwoLists = new MergeTwoLists();
+        // 搜索插入位置
+        SearchInsert searchInsert = new SearchInsert();
     }
 }
