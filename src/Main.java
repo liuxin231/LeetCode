@@ -24,5 +24,7 @@ public class Main {
         MergeTwoLists mergeTwoLists = new MergeTwoLists();
         // 搜索插入位置
         SearchInsert searchInsert = new SearchInsert();
+        // 最后一个单词的长度
+        LengthOfLastWord lengthOfLastWord = new LengthOfLastWord();
     }
 }
