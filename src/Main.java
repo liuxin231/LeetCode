@@ -26,5 +26,7 @@ public class Main {
         SearchInsert searchInsert = new SearchInsert();
         // 最后一个单词的长度
         LengthOfLastWord lengthOfLastWord = new LengthOfLastWord();
+        // 相同的树
+        IsSameTree isSameTree = new IsSameTree();
     }
 }
