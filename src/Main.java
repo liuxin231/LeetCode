@@ -28,5 +28,7 @@ public class Main {
         LengthOfLastWord lengthOfLastWord = new LengthOfLastWord();
         // 相同的树
         IsSameTree isSameTree = new IsSameTree();
+        // 二叉树的最大深度
+        MaxDepth maxDepth = new MaxDepth();
     }
 }
